@@ -71,5 +71,23 @@ Technologies:
     <td></td>
     <td>SASS</td>
   </tr>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Doker</td>
+  </tr>
+      <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Jenkins</td>
+  </tr>
+
+
+  
 </table>
 
