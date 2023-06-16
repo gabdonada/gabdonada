@@ -36,7 +36,7 @@ knowledge:
     <td>React</td>
     <td>JavaScript</td>
     <td>Dynamo</td>
-    <td></td>
+    <td>SonarQube</td>
     <td>Component Diagram</td>
     <td>Jira</td>
   </tr>
