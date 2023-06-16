@@ -27,7 +27,7 @@ Technologies:
     <td>TypeScript</td>
     <td>Mongo</td>
     <td>Functional Test</td>
-    <td>Agile Methods</td>
+    <td>Agile Methodologies</td>
   </tr>
   <tr>
     <td>React</td>
