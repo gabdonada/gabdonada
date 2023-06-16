@@ -6,7 +6,7 @@
 - 📖 I speek: English, Portuguese and Spanish
 - ⚡ Fun facts: I'm a music lover, I love spend time playing some struments.
 
-Technologies:
+knowledge:
 <table>
   <tr>
     <th>Front End</th>
