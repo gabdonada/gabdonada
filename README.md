@@ -13,6 +13,7 @@ Technologies:
     <th>Backend</th>
     <th>Data Base</th>
     <th>QA</th>
+    <th>Documentation</th>
     <th>Others</th>
   </tr>
   <tr>
@@ -20,6 +21,7 @@ Technologies:
     <td>NodeJS</td>
     <td>SQL</td>
     <td>Unit Test</td>
+    <th>UML</th>
     <td>Github</td>
   </tr>
   <tr>
@@ -27,6 +29,7 @@ Technologies:
     <td>TypeScript</td>
     <td>Mongo</td>
     <td>Functional Test</td>
+    <th>User Case Diagram</th>
     <td>Agile Methodologies</td>
   </tr>
   <tr>
@@ -34,6 +37,7 @@ Technologies:
     <td>JavaScript</td>
     <td>Dynamo</td>
     <td></td>
+    <th>Component Diagram</th>
     <td>Jira</td>
   </tr>
   <tr>
@@ -41,6 +45,7 @@ Technologies:
     <td>Java</td>
     <td>Real-Time DB</td>
     <td></td>
+    <th>Activity Diagram</th>
     <td>AWS</td>
   </tr>
   <tr>
@@ -48,6 +53,7 @@ Technologies:
     <td>Python</td>
     <td></td>
     <td></td>
+    <th>Sequence Diagram</th>
     <td>Google Cloud</td>
   </tr>
   <tr>
@@ -55,6 +61,7 @@ Technologies:
     <td></td>
     <td></td>
     <td></td>
+    <th>Deployment Diagram</th>
     <td>ITIL</td>
   </tr>
   <tr>
@@ -62,6 +69,7 @@ Technologies:
     <td></td>
     <td></td>
     <td></td>
+    <th>System Architecture Document</th>
     <td>Cognos</td>
   </tr>
     <tr>
@@ -69,6 +77,7 @@ Technologies:
     <td></td>
     <td></td>
     <td></td>
+    <th>Entity-Relationship (ER) Diagram</th>
     <td>SASS</td>
   </tr>
     </tr>
@@ -77,6 +86,7 @@ Technologies:
     <td></td>
     <td></td>
     <td></td>
+      <th>Database Schema</th>
     <td>Doker</td>
   </tr>
       <tr>
@@ -84,6 +94,7 @@ Technologies:
     <td></td>
     <td></td>
     <td></td>
+        <th>Data Schema</th>
     <td>Jenkins</td>
   </tr>
 
