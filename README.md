@@ -1,7 +1,7 @@
 ## Hey I'm Gabriel Donada
 
 
-- 🔭 I’m currently working on SAP SE (as Senior Backend Developer using Java, Python, SQL, Liquibase and AWS) and also working as freelancer (fullstack)
+- 🔭 I’m currently working on SAP SE (as Senior Backend Developer using Java, Python, SQL, Liquibase and AWS) and also working as freelancer (fullstack - with React, Node, Typescript, AWS and ReactNative)
 - 📫 How to reach me: gabdonada@hotmail.com
 - 🏫 Graduated in Analysis and System Development. Post graduate in Software Engineer.
 - 📖 I speek: English, Portuguese and Spanish
