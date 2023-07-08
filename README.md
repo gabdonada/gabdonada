@@ -103,7 +103,7 @@ knowledge:
     <td></td>
     <td></td>
     <td></td>
-        <td></td>
+        <td>C4 Model</td>
     <td>Heroku</td>
   </tr>
 
