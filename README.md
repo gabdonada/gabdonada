@@ -106,8 +106,24 @@ knowledge:
         <td>C4 Model</td>
     <td>Heroku</td>
   </tr>
-
-
+  </tr>
+        <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+        <td></td>
+    <td>NextJs</td>
+  </tr>
+  </tr>
+        <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+        <td></td>
+    <td>NestJs</td>
+  </tr>
 
   
 </table>
