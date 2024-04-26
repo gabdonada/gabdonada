@@ -59,14 +59,14 @@ knowledge:
   </tr>
   <tr>
     <td>Handlebars</td>
-    <td></td>
+    <td>Angular</td>
     <td></td>
     <td></td>
     <td>Deployment Diagram</td>
     <td>ITIL</td>
   </tr>
   <tr>
-    <td>Angular</td>
+    <td>Tailwind</td>
     <td></td>
     <td></td>
     <td></td>
