@@ -74,7 +74,7 @@ knowledge:
     <td>Cognos</td>
   </tr>
     <tr>
-    <td></td>
+    <td>MaterialUI</td>
     <td></td>
     <td></td>
     <td></td>
